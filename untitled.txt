@@ -1,0 +1,4 @@
+Supervised Learning : Classification / Regression
+
+Regression => Prédire une variable continue  (ex: prix vente d'une voiture)
+           => Prédire une variable catégoriquei ( ex: patient atteint d'un cancert ou pas)
